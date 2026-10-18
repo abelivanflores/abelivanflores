@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abelivanflores
 - 📫 Feel free to connect with me through 
-      LinkedIn: https://www.linkedin.com/in/abel-flores-436666194/
+      LinkedIn: https://www.linkedin.com/in/abelivanflores
       Email: dev@bufelo.com
       2nd Account: https://github.com/abeliflores
   
